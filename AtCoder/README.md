@@ -22,6 +22,7 @@ ABC 192 SOMPO HD プログラミングコンテスト2021 : D, E, F
 ABC 193 キャディプログラミングコンテスト2021 : E, F  
 ABC 194 : D, E, F  
 ABC 195 パナソニックプログラミングコンテスト : D, E, F  
+ABC 196 : D, E, F  
 ACL Beginner Contest : D, E, F  
 HHKB プログラミングコンテスト 2020 : D, E, F  
   
