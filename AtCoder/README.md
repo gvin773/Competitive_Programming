@@ -26,6 +26,7 @@ ABC 196 : D, E, F
 ABC 197 : C, E, F  
 ACL Beginner Contest : D, E, F  
 HHKB プログラミングコンテスト 2020 : D, E, F  
+第二回日本最強プログラマー学生選手権 : D, E, F  
   
 ARC 104 : C, D, E, F  
 ARC 105 : C, D, E, F  
